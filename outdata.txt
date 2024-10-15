@@ -1,0 +1,3 @@
+Sum of 75 and 85 equals 160
+The character that follows E in the ascii sequence is F. 
+This random user decided to type Beanie.
